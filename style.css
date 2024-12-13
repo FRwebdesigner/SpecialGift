@@ -1,3 +1,11 @@
+h1 {
+    margin-bottom: 600px;
+    color: black; 
+    background: palegoldenrod;
+    text-decoration: underline;
+    font-weight: 600;
+    align-self: center;
+}
 
 h2 {
    margin: 0;
